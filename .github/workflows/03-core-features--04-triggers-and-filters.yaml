@@ -16,7 +16,7 @@ on:
       - "03-core-features/filters/*.html"
 
   schedule:
-    - cron: "55 6 * * *"   # Runs daily at 12:16 PM IST
+    - cron: "55 6 * * *"   # Runs daily at 12:25 PM IST
 
 jobs:
   echo-event:
